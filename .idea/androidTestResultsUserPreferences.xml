@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidTestResultsUserPreferences">
+    <option name="androidTestResultsTableState">
+      <map>
+        <entry key="-757160370">
+          <value>
+            <AndroidTestResultsTableState>
+              <option name="preferredColumnWidths">
+                <map>
+                  <entry key="Duration" value="90" />
+                  <entry key="OnePlus&#10; GM1901" value="120" />
+                  <entry key="Pixel_6_API_31" value="120" />
+                  <entry key="Tests" value="360" />
+                  <entry key="ab6a0d5e" value="120" />
+                </map>
+              </option>
+            </AndroidTestResultsTableState>
+          </value>
+        </entry>
+        <entry key="129418843">
+          <value>
+            <AndroidTestResultsTableState>
+              <option name="preferredColumnWidths">
+                <map>
+                  <entry key="Duration" value="90" />
+                  <entry key="OnePlus&#10; GM1901" value="120" />
+                  <entry key="Pixel_6_API_31" value="120" />
+                  <entry key="Tests" value="360" />
+                  <entry key="ab6a0d5e" value="120" />
+                </map>
+              </option>
+            </AndroidTestResultsTableState>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
